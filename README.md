@@ -90,7 +90,7 @@ Key implementation details:
 
 ## System Schematic
 
-![System schematic](schematics/schematic.png)
+![System schematic](docs/schematic.png)
 
 ---
 
