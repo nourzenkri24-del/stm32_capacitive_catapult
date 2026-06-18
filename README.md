@@ -111,7 +111,7 @@ stm32-catapult/
 ├── schematics/                  # KiCad system schematic + PNG export
 ├── docs/
 │   ├── state_machine_diagram.png
-│   ├── flowchart.png            # Schematic png
+│   ├── schematic.png            # Schematic png
 ├── media/                       # Photos and demo video
 ├── cad/                         # 3D mechanical design files
 ├── stm32_catapult.ioc           # CubeMX configuration
